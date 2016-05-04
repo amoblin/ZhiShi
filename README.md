@@ -11,4 +11,9 @@ This file is created by Marboo<http://marboo.io> template file $MARBOO_HOME/.med
 知时 iOS App：https://itunes.apple.com/cn/app/zhi-shi/id1108463535?l=en&mt=8
 
 <img src="1.png" width="300" />
+
 <img src="2.png" width="300" />
+
+微信群：
+
+<img src="1.jpg" width="300" />
